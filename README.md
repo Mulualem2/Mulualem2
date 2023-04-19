@@ -1,11 +1,10 @@
-### Hi there 👋 I'm Mulualem Mekonnen
-I'm full-stack software engineer specialized in Backend development.
+### Hi there 👋 I'm Mulualem Mekonnen 
+I am a full-stack software engineer specialized in Backend development, and I am excited to welcome you to my GitHub page! As a passionate software developer with a few years of experience, I am constantly learning and exploring new technologies to improve my skills and knowledge. On my GitHub page, you will find various projects, contributions, and collaborations that showcase my abilities in software development. Whether it's developing applications, building data science projects, I am always eager to collaborate and work on new projects. Apart from my professional work, I am also passionate about history, hicking, jogging and etc ..., which helps me maintain a healthy work-life balance. I hope you find my GitHub page informative and engaging. Don't hesitate to reach out to me if you have any questions, ideas, or suggestions for collaboration. Let's connect and work together to create something amazing!
 
 
-
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... Cloud Services
 - 🌱 I’m currently learning ... Datascience and Machine Learning
-- 👯 I’m looking to collaborate on ... Any open source projectes
+- 👯 I’m looking to collaborate on ... Any open source projects which 
 - 💬 Ask me about ... Web Development, Backend Development, MERN
 - 📫 How to reach me: ... mulualemasfaw2321@gmail.com
 
