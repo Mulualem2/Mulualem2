@@ -32,6 +32,4 @@ I am a full-stack software engineer specialized in Backend development, and I am
 ### 📊 Stats
 
 ![Mulualem2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulualem2&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=Mulualem2&theme=gruvbox&border_radius=4.5)
-![GitHub Most used Laguage](https://github-readme-stats.vercel.app/api/top-langs?username=Mulualem2&show_icons=true&theme=gruvbox)
 #
